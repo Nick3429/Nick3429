@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Nick Sofianakos 👋
+
+2024 Graduate of Villanova University. I received my BS in Computer Engineering along with minors in both Statistics and Computer Science.
 
 <!--
 **Nick3429/Nick3429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
