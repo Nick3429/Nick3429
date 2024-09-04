@@ -1,6 +1,6 @@
 ## Hi I'm Nick Sofianakos 👋
 
-I graduated in 2024 from Villanova University with a Bachelor of Science in Computer Engineering, complemented by minors in statistics and Computer Science. 
+I graduated in 2024 from Villanova University with a Bachelor of Science in Computer Engineering, complemented by minors in Statistics and Computer Science. 
 
 For any questions regarding the projects in my portfolio, feel free to email me at nsofianakos@gmail.com!
 
