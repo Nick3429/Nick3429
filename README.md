@@ -22,7 +22,7 @@ I'm a **Technology Consultant at Ernst & Young** in the New York City Metropolit
 
 I excel at quickly mastering new concepts and technologies to design and deliver effective AI and data solutions for complex business challenges. Whether working independently or as part of a team, I bring dedication, creativity, and a process-oriented mindset to every project.
 
-🎓 **Villanova University**, B.S. Computer Engineering (2024), minors in Statistics and Computer Science
+🎓 **Villanova University**, B.S. Computer Engineering, minors in Statistics and Computer Science
 Off the clock: working out, watching sports, and listening to music.
 
 ---
