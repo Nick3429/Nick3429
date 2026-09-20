@@ -18,7 +18,7 @@
 
 ## 👋 Hey, I'm Nick Sofianakos
 
-I'm a **Technology Consultant at Ernst & Young** in the New York City Metropolitan Area, working within the **Artificial Intelligence and Data (AI&D)** practice. My journey in technology has been driven by curiosity and a commitment to continuous learning.
+I'm a **Technology Consultant at Ernst & Young** in the New York City Metropolitan Area, working within the **Artificial Intelligence, Data, and Engineering Practice (AID&E)** practice. My journey in technology has been driven by curiosity and a commitment to continuous learning.
 
 I excel at quickly mastering new concepts and technologies to design and deliver effective AI and data solutions for complex business challenges. Whether working independently or as part of a team, I bring dedication, creativity, and a process-oriented mindset to every project.
 
