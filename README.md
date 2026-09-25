@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Nick%20Sofianakos&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Consultant%20%7C%20Developer%20%7C%20Problem%20Solver&descSize=20&descAlignY=60" alt="Nick Sofianakos header" width="100%" />
 
 <a href="https://github.com/Nick3429">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=720&lines=AI+%26+Data+Technology+Consultant+%40+EY;Building+AI+and+data+solutions+on+Databricks%2C+Azure+%26+AWS;Databricks+Certified+%C2%B7+Microsoft+Azure+Certified" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FFFFFF&background=000000&center=true&vCenter=true&width=820&lines=AI+%26+Data+Technology+Consultant+%40+EY;Building+AI+and+data+solutions+on+Databricks%2C+Azure+%26+AWS;Databricks+Certified+%C2%B7+Microsoft+Azure+Certified+%C2%B7+OpenAI+Certified" alt="Typing animation" />
 </a>
 
 <br/>
@@ -146,6 +146,7 @@ flowchart LR
 | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft" /> | **Azure Fundamentals** | AZ-900 | 2025 |
 | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft" /> | **Azure AI Fundamentals** | AI-900 | 2025 |
 | <img src="https://img.shields.io/badge/-Microsoft-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Microsoft" /> | **Azure Data Fundamentals** | DP-900 | 2025 |
+| <img src="https://img.shields.io/badge/-OpenAI-10A37F?style=flat-square" alt="OpenAI" /> | **Consultative Solutions Practitioner** | OpenAI | 2026 |
 
 </div>
 
